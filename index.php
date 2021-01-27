@@ -10,9 +10,7 @@ require('ninjas.php');
   </head>
     <body>
       <h2>
-       <?php 
        
-        ?>
   
       </h2>
    </body>
